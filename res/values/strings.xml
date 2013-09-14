@@ -10,5 +10,10 @@
     <string name="button_upload">Last opp</string>
     <string name="button_save">Lagre</string>
     <string name="title_activity_feed_reader_contract">FeedReaderContract</string>
+    <string name="view_image">Vis bilde</string>
+    <string name="title_activity_show_image">ShowImage</string>
+    <string name="title_activity_view_map">ViewMap</string>
+    <string name="view_map">Kart</string>
+    <string name="title_activity_show_map">ShowMap</string>
 
 </resources>
